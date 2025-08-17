@@ -5,6 +5,7 @@ def min_operations(nums)
     #Loop to detect a 0 in the array. Starting where it detects a 0 and change 3 consecutive indices from 1 to 0 or 0 to 1.
     #Check if all of the numbers in the array now equals to 1. If so, return the counter. If not, return -1
     
+    
     count = 0
     (0..nums.length - 3).each do |i|
       if nums[i] == 0
