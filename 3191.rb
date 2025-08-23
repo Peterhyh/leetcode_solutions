@@ -9,6 +9,7 @@ def min_operations(nums)
   
     
 
+
     
 
 
