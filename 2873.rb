@@ -7,6 +7,7 @@ def max_triplet_value(nums)
 
 
   
+
   (0...n).each do |i|
     (i+1...n).each do |j|
       (j+1...n).each do |k|
