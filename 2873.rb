@@ -6,6 +6,7 @@ def max_triplet_value(nums)
   max_value = 0  # default if all values are negative
 
 
+
   
 
 
