@@ -5,6 +5,7 @@ def max_triplet_value(nums)
   n = nums.length #integer of how many elements are in the array
   max_value = 0  # default if all values are negative
 
+
   
 
   (0...n).each do |i|
