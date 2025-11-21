@@ -8,7 +8,7 @@ def cakes(recipe, available)
   end.min
 end
 
-recipe = {"flour"=>600, "sugar"=>200, "eggs"=>1}
+recipe = {"flour"=>500, "sugar"=>200, "eggs"=>1}
 ingredients = {"flour"=>1200, "sugar"=>1200, "eggs"=>5, "milk"=>200}
 #should return 2
 
